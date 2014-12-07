@@ -25,11 +25,12 @@
   },
 
   "dependencies": {
-    "express": "~3.4.4"
+    "express": "~3.4.4",
+    "irc": "*"
   },
   "devDependencies": {},
   "bundleDependencies": [],
 
   "private": true,
-  "main": "server.js"
+  "main": "WatchaMeanBy.js"
 }
