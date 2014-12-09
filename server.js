@@ -1,5 +1,5 @@
 var config = {
-	channels : [ "#bot" ],
+	channels : [ "#bots" ],
 	server : "irc.freenode.net",
 	botName : "watchameanby"
 };
