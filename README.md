@@ -1,3 +1,4 @@
-The OpenShift `nodejs` cartridge documentation can be found at:
+watchameanby
+============
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
+A node.js based IRC bot that replies with the meaning of the word it recieves. Uses the JSON api provided by urbandictonary.com
